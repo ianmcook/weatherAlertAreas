@@ -4,7 +4,7 @@
 #' National Weather Service (\acronym{NWS}) to define alert areas.
 #'
 #' @format A \code{\link[sp:SpatialPolygons-class]{SpatialPolygons}} object of
-#'   length 7356 whose names are 2-letter state abbreviations and 6-character
+#'   length 7355 whose names are 2-letter state abbreviations and 6-character
 #'   Universal Geographic Code (\acronym{UGC}) county and zone codes. Polygons
 #'   are specified in WGS84 coordinates.
 #' @details Package will be periodically updated following updates to alert
