@@ -1,8 +1,8 @@
 Package: weatherAlertAreas
 Type: Package
 Title: Alert Areas Used by the United States National Weather Service
-Version: 0.5
-Date: 2016-11-16
+Version: 0.6
+Date: 2017-04-05
 Authors@R: person("Ian", "Cook", , "ianmcook@gmail.com", c("aut", "cre"))
 Description: Spatial data defining the alert areas used by the United States
     National Weather Service (NWS). Areas are identified by 2-letter state
@@ -19,4 +19,4 @@ BugReports: https://github.com/ianmcook/weatherAlertAreas/issues
 LazyData: TRUE
 NeedsCompilation: no
 License: CC0
-RoxygenNote: 5.0.1
+RoxygenNote: 6.0.1
