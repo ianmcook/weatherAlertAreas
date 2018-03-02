@@ -9,7 +9,7 @@
   Universal Geographic Code (\acronym{UGC}) county and zone codes. Polygons
   are specified in WGS84 coordinates.}
 \source{
-\url{http://www.nws.noaa.gov/geodata/}
+\url{https://www.weather.gov/gis/AWIPSShapefiles}
 }
 \usage{
 alertAreas

@@ -9,6 +9,6 @@
 #'   are specified in WGS84 coordinates.
 #' @details Package will be periodically updated following updates to alert
 #'   areas by the National Weather Service.
-#' @source \url{http://www.nws.noaa.gov/geodata/}
+#' @source \url{https://www.weather.gov/gis/AWIPSShapefiles}
 #' @seealso Package \pkg{weatherAlerts}
 "alertAreas"
