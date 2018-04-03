@@ -5,7 +5,7 @@
 \alias{alertAreas}
 \title{Alert Areas Used by the National Weather Service}
 \format{A \code{\link[sp:SpatialPolygons-class]{SpatialPolygons}} object of
-  length 7395 whose names are 2-letter state abbreviations and 6-character
+  length 7406 whose names are 2-letter state abbreviations and 6-character
   Universal Geographic Code (\acronym{UGC}) county and zone codes. Polygons
   are specified in WGS84 coordinates.}
 \source{
