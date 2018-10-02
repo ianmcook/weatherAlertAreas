@@ -1,8 +1,8 @@
 Package: weatherAlertAreas
 Type: Package
 Title: Alert Areas Used by the United States National Weather Service
-Version: 0.12.0
-Date: 2018-07-10
+Version: 0.13.0
+Date: 2018-10-02
 Authors@R: person("Ian", "Cook", , "ianmcook@gmail.com", c("aut", "cre"))
 Description: Spatial data defining the alert areas used by the United States
     National Weather Service (NWS). Areas are identified by 2-letter state
