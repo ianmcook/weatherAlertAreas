@@ -1,8 +1,8 @@
 Package: weatherAlertAreas
 Type: Package
 Title: Alert Areas Used by the United States National Weather Service
-Version: 0.17.0
-Date: 2020-03-07
+Version: 0.18.0
+Date: 2020-10-29
 Authors@R: person("Ian", "Cook", , "ianmcook@gmail.com", c("aut", "cre"))
 Description: Spatial data defining the alert areas used by the United States
     National Weather Service (NWS). Areas are identified by 2-letter state
@@ -10,7 +10,8 @@ Description: Spatial data defining the alert areas used by the United States
     Intended for use with package weatherAlerts. Package will be periodically
     updated following updates to alert areas by the National Weather Service.
 Depends:
-    sp
+    sp,
+    R (>= 2.10)
 Imports:
     rgeos
 Enhances: weatherAlerts
@@ -19,4 +20,4 @@ BugReports: https://github.com/ianmcook/weatherAlertAreas/issues
 LazyData: TRUE
 NeedsCompilation: no
 License: CC0
-RoxygenNote: 7.0.2
+RoxygenNote: 7.1.1
